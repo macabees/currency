@@ -1,5 +1,5 @@
 # Currency
-## Converts the currency based on real-time exchange rates.
+Converts the currency based on real-time exchange rates.
 
 ## currency (Project Info)
 [Website](https://github.com/alexanderepstein/Bash-Snippets)
